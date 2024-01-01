@@ -6,6 +6,6 @@ plugins {
 
 gradleEnterprise {
     buildScan {
-        tag("TEST-TAG")
+        tag("frontend-engineer")
     }
 }
